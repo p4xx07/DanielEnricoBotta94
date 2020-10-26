@@ -3,6 +3,4 @@
 
 - 🔭 I’m currently working at **MainStreaming**
 
-- 💬 Ask me about **Full stack web development**
-
 - 📫 How to reach me **danielenricobotta@outlook.it**
